@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">City  Distance</string>
+    <string name="str_submit">Submit</string>
+    <string name="str_from_city_name">From City</string>
+    <string name="str_to_city_name">To City</string>
+
+</resources>
